@@ -1,0 +1,16 @@
+{
+  "name": "2_projectone.trekbikes.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "dependencies": {
+    "puppeteer-core": "^5.5.0",
+    "xlsx": "^0.16.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
